@@ -17,10 +17,6 @@ npm install
 ```
 
 ```
-npm run server
-```
-
-```
 
   "scripts": {
     "start": "node server/index",
@@ -28,6 +24,12 @@ npm run server
   },
 
 ```
+
+```
+npm run server
+```
+
+
 **Add Credentials**
 
 Make sure to use Git Bash if you use windows to create a .env file at the root directory of your application to hide all your sensitive information
