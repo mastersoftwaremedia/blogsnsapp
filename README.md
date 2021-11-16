@@ -21,7 +21,7 @@ Created a MERN mini social blog media application using React.js, Node.js, and M
 ```
 **Add Credentials**
 
-Make sure to use Git Bash to create a .env file at the root directory of your application to hide all your sensitive information
+Make sure to use Git Bash if you use windows to create a .env file at the root directory of your application to hide all your sensitive information
 
 ```
 touch .env
