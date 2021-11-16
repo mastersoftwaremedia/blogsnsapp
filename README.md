@@ -38,7 +38,7 @@ touch .env
 Add following variables to .env file:
 
 ```
-NODE_ENV=PRODUCTION
+NODE_ENV=DEVELOPMENT
 
 FRONTEND_URL=http://localhost:3000
 
