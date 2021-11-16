@@ -12,6 +12,9 @@ Created a MERN mini social blog media application using React.js, Node.js, and M
 
 **Server**
 
+```
+npm install
+```
 
 ```
 npm run server
