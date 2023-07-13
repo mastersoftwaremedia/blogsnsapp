@@ -1,0 +1,33 @@
+{
+  "name": "1rr-cmyBlogSns",
+  "version": "1.0.0",
+  "description": "MERN Stack BlogSns App",
+  "engines": {
+    "node": "16.16.0",
+    "npm": "8.11.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index",
+    "server": "nodemon server/index",
+    "client": "npm start --prefix client"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.27.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.2.0",
+    "express-fileupload": "^1.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.7.0",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "validator": "^13.7.0"
+  }
+}
