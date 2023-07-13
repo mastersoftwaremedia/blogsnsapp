@@ -55,3 +55,4 @@ CLOUDINARY_API_SECRET
 npm start
 ```
 
+Login with existing ID and password: john@gmail.com / 123456
